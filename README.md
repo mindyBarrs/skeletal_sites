@@ -2,7 +2,7 @@
 
 Here is where there will be a number of different skeletal version of websites. 
 
-1.## HTML
+## 1. HTML
    ### Extreme Skeleton
       > This is a very empty and basic version of a html index page.
    ### Empty HTML5 Page
