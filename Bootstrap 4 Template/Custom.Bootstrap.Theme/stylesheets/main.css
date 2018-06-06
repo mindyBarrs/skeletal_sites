@@ -1,0 +1,109 @@
+.btn-primary{
+    background-color: #313461 !important;
+    border-color: #313461 !important;
+}
+
+.jumbotron{
+    background: #333 url("../img/bg.jpg") -400px -200px;
+    color: #fff;
+    text-align: center;
+    border-bottom: 5px solid #f4f4f4;
+}
+
+.jumbotron-main{
+    padding: 0px 60px 40px 60px;
+}
+
+    .jumbotron-main h1{
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+
+    .jumbotron p.lead{
+        font-size: 25px;
+        margin-bottom: 60px;
+    }
+
+
+.jumbotron-sub{
+    padding: 0px 60px 40px 60px;
+}
+
+.navbar{
+    margin: 0px;
+    color: #fff;
+}
+
+.navbar a{
+    color: #fff;
+    margin-bottom: 3px;
+}
+    .navbar a:hover,
+    .navbar .active a:hover{
+        color: #fff;
+        background: none !important;
+        border-bottom: #fff 3px Solid;
+        margin-bottom: 0px;
+    }
+
+    .navbar .active a{
+        background: none !important;
+        border-bottom: #17a2b8 3px Solid;
+        margin-bottom: 0px;
+    }
+
+.btn-outline-info{
+    background-color: #fff;
+    border-width: 2px !important;
+}
+
+.card{
+    text-align: center;
+}
+    .card i{
+        font-size: 4em;
+    }
+
+    .card-body{
+        text-align: left;
+    }
+
+.section-a{
+    background: #17a2b8;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+    .section-a h1{
+        font-size: 50px;
+        text-transform: uppercase
+    }
+
+.img-full{
+    width: 100%;
+}
+
+.list-group i{
+    color: #17a2b8;
+    padding-right: 10px;
+}
+
+.main-footer{
+    background: #f5f5f5;
+    padding: 50px;
+}
+
+.titles .btn-link{
+    color: #17a2b8;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.titles .btn-link:hover{
+    color: #333;
+}
+
+textarea{
+    resize: none !important;
+}
